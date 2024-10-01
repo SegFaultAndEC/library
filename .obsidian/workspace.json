@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "5c1c807ba6a0740a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7bfa8542252863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18dc98b134c0175",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "cd0ce08eb5809a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn-note/numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17d0e81b36a6fdac",
+    "type": "split",
+    "children": [
+      {
+        "id": "808682bfb13cb172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd634d5ed66e3c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b20f68593cec902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "多线程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13bf838748a88cc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.5
+  },
+  "right": {
+    "id": "ea930c07df0169f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f56d7a7108bd236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "424156cd2deab0b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learn-note/numpy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d089ec08932f91c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learn-note/numpy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b77b02c41f87a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84d6089bdcbc7e31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learn-note/numpy.md"
+              }
+            }
+          },
+          {
+            "id": "080aaf2dc83a45a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "abb351199ff978b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "learn-note/numpy.md"
+              }
+            }
+          },
+          {
+            "id": "21e585ff165421bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cd0ce08eb5809a19",
+  "lastOpenFiles": [
+    "learn-note/vim.md",
+    "learn-note/numpy.md",
+    "learn-note/c++/目录.md",
+    "learn-note/cmake/cmake.md",
+    "code/previous-code/some-game/assets/Scripts/ThingsScripts/NoLifeScripts/VRPhone/MessageApp/MessageApp.cs",
+    "code/previous-code/some-game/assets/Scripts/ThingsScripts/NoLifeScripts/VRPhone/MessageApp/MessageNode.cs",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/prim.c",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/readme.md",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.man",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.h",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw-mimalloc.wprp",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/wasi/prim.c",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/unix/prim.c",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/osx/prim.c",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/osx/alloc-override-zone.c",
+    "code/previous-code/XoX/README.md",
+    "code/previous-code/emake/README.md",
+    "code/previous-code/amadeus/README.md",
+    "learn-note/图形学/MVP.md",
+    "learn-note/git/克隆指定分支.md",
+    "learn-note/math/线性代数.md",
+    "learn-note/c++/值类型.md",
+    "learn-note/c++/转发.md",
+    "learn-note/c++/约束与概念.md",
+    "learn-note/c++/多线程.md",
+    "learn-note/c++/指针.md",
+    "learn-note/c++/union.md",
+    "learn-note/c++/optional.md",
+    "learn-note/c++/inline.md",
+    "learn-note/c++/mutable.md",
+    "learn-note/c++/显示this参数.md",
+    "learn-note/linux/文件目录管理.md",
+    "learn-note/linux/基础命令.md",
+    "learn-note/linux/opensuse/风滚草更新.md",
+    "learn-note/latex/基本使用.md",
+    "learn-note/linux/opensuse/网速慢.md",
+    "picture/3.png",
+    "picture/1.png",
+    "picture/2.png",
+    "workspace/logic/relation.canvas",
+    "workspace/未命名.canvas",
+    "read/读后感/未命名.canvas",
+    "learn/cpp/cpp-menu.canvas"
+  ]
+}
