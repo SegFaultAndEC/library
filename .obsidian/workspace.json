@@ -14,19 +14,23 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "cd0ce08eb5809a19",
+            "id": "d19a39e1db175be2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-note/numpy.md",
+                "file": "learn-note/html/元素.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "元素"
             }
           }
         ],
@@ -50,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -65,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -73,14 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 455.5
   },
   "right": {
     "id": "ea930c07df0169f1",
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn-note/numpy.md",
+                "file": "learn-note/html/几个标签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "几个标签 的反向链接列表"
             }
           },
           {
@@ -113,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn-note/numpy.md",
+                "file": "learn-note/html/几个标签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "几个标签 的出链列表"
             }
           },
           {
@@ -127,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -136,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn-note/numpy.md"
-              }
+                "file": "learn-note/html/几个标签.md"
+              },
+              "icon": "lucide-list",
+              "title": "几个标签 的大纲"
             }
           },
           {
@@ -149,7 +167,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -158,8 +178,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "learn-note/numpy.md"
-              }
+                "file": "learn-note/html/几个标签.md"
+              },
+              "icon": "lucide-info",
+              "title": "几个标签的笔记属性"
             }
           },
           {
@@ -167,11 +189,13 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -188,47 +212,48 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "cd0ce08eb5809a19",
+  "active": "d19a39e1db175be2",
   "lastOpenFiles": [
-    "learn-note/vim.md",
-    "learn-note/numpy.md",
-    "learn-note/c++/目录.md",
-    "learn-note/cmake/cmake.md",
-    "code/previous-code/some-game/assets/Scripts/ThingsScripts/NoLifeScripts/VRPhone/MessageApp/MessageApp.cs",
-    "code/previous-code/some-game/assets/Scripts/ThingsScripts/NoLifeScripts/VRPhone/MessageApp/MessageNode.cs",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/prim.c",
+    "handwritten-notes/New note.pdf",
+    "未命名.canvas",
+    "learn-note/html/元素.md",
+    "handwritten-notes",
+    "Excalidraw/Drawing 2025-01-18 10.49.54.excalidraw.md",
+    "learn-note/html/属性.md",
+    "learn-note/html/几个标签.md",
+    "learn-note/html/基础.md",
+    "Excalidraw/Drawing 2025-01-18 10.47.27.excalidraw.md",
+    "Excalidraw",
+    "learn-note/pybind11/python对象作为参数.md",
+    "learn-note/pybind11/构建.md",
+    "learn-note/pybind11/返回值策略.md",
+    "learn-note/pybind11/绑定.md",
+    "learn-note/pyqt/字体锯齿.md",
+    "learn-note/html",
+    "learn-note/共产党宣言.md",
+    "learn-note/algorithm/重要思想/D and C.md",
+    "learn-note/rpgmakermv/3.事件开场.md",
+    "learn-note/rpgmakermv/1.系统功能.md",
+    "learn-note/rpgmakermv/2.地图编辑.md",
+    "learn-note/rpgmakermv",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/readme.md",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw-mimalloc.wprp",
+    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/prim.c",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.man",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.h",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw-mimalloc.wprp",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/wasi/prim.c",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/unix/prim.c",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/osx/prim.c",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/osx/alloc-override-zone.c",
     "code/previous-code/XoX/README.md",
-    "code/previous-code/emake/README.md",
     "code/previous-code/amadeus/README.md",
-    "learn-note/图形学/MVP.md",
-    "learn-note/git/克隆指定分支.md",
-    "learn-note/math/线性代数.md",
-    "learn-note/c++/值类型.md",
-    "learn-note/c++/转发.md",
-    "learn-note/c++/约束与概念.md",
-    "learn-note/c++/多线程.md",
-    "learn-note/c++/指针.md",
-    "learn-note/c++/union.md",
-    "learn-note/c++/optional.md",
-    "learn-note/c++/inline.md",
-    "learn-note/c++/mutable.md",
-    "learn-note/c++/显示this参数.md",
-    "learn-note/linux/文件目录管理.md",
-    "learn-note/linux/基础命令.md",
-    "learn-note/linux/opensuse/风滚草更新.md",
-    "learn-note/latex/基本使用.md",
-    "learn-note/linux/opensuse/网速慢.md",
+    "learn-note/spdlog.md",
+    "learn-note/numpy.md",
+    "learn-note/vim.md",
+    "learn-note/c++/目录.md",
+    "learn-note/cmake/cmake.md",
+    "code/previous-code/emake/README.md",
     "picture/3.png",
     "picture/1.png",
     "picture/2.png",
