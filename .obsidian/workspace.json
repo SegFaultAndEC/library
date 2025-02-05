@@ -25,12 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn-note/html/元素.md",
+                "file": "learn-note/绘画/透视.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "元素"
+              "title": "透视"
+            }
+          },
+          {
+            "id": "31b7e809bcc0f35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn-note/html/9.块级元素和内联元素.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.块级元素和内联元素"
             }
           }
         ],
@@ -53,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -90,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea930c07df0169f1",
@@ -218,45 +234,49 @@
   },
   "active": "d19a39e1db175be2",
   "lastOpenFiles": [
+    "learn-note/绘画/人体比例.md",
+    "learn-note/绘画/透视.md",
+    "learn-note/绘画",
+    "learn-note/绘画.md",
+    "picture/img6.png",
+    "picture/img5.png",
+    "picture/img4.png",
+    "learn-note/html/11.框架.md",
+    "learn-note/html/4.链接.md",
+    "learn-note/html/10.表单.md",
+    "learn-note/html/9.块级元素和内联元素.md",
+    "learn-note/html/1.概述.md",
+    "learn-note/html/8.列表.md",
+    "learn-note/html/7.表格.md",
+    "learn-note/html/6.头部.md",
+    "learn-note/html/5.图像.md",
+    "learn-note/html/3.文本元素.md",
+    "learn-note/html/2.属性.md",
+    "learn-note/html/2.元素.md",
+    "learn-note/共产党宣言.md",
+    "learn-note/numpy.md",
+    "learn-note/spdlog.md",
+    "learn-note/vim.md",
+    "learn-note/git/克隆指定分支.md",
+    "learn-note/乐理/音程.md",
+    "learn-note/algorithm/重要思想/D and C.md",
+    "learn-note/c++/列表初始化.md",
     "handwritten-notes/New note.pdf",
     "未命名.canvas",
-    "learn-note/html/元素.md",
     "handwritten-notes",
     "Excalidraw/Drawing 2025-01-18 10.49.54.excalidraw.md",
-    "learn-note/html/属性.md",
-    "learn-note/html/几个标签.md",
-    "learn-note/html/基础.md",
     "Excalidraw/Drawing 2025-01-18 10.47.27.excalidraw.md",
     "Excalidraw",
     "learn-note/pybind11/python对象作为参数.md",
-    "learn-note/pybind11/构建.md",
-    "learn-note/pybind11/返回值策略.md",
-    "learn-note/pybind11/绑定.md",
-    "learn-note/pyqt/字体锯齿.md",
     "learn-note/html",
-    "learn-note/共产党宣言.md",
-    "learn-note/algorithm/重要思想/D and C.md",
-    "learn-note/rpgmakermv/3.事件开场.md",
-    "learn-note/rpgmakermv/1.系统功能.md",
-    "learn-note/rpgmakermv/2.地图编辑.md",
     "learn-note/rpgmakermv",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/readme.md",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw-mimalloc.wprp",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/prim.c",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.man",
     "code/previous-code/XoX/thirdparty/src/mimalloc/prim/windows/etw.h",
-    "code/previous-code/XoX/thirdparty/src/mimalloc/prim/wasi/prim.c",
-    "code/previous-code/XoX/README.md",
-    "code/previous-code/amadeus/README.md",
-    "learn-note/spdlog.md",
-    "learn-note/numpy.md",
-    "learn-note/vim.md",
-    "learn-note/c++/目录.md",
-    "learn-note/cmake/cmake.md",
-    "code/previous-code/emake/README.md",
-    "picture/3.png",
-    "picture/1.png",
-    "picture/2.png",
+    "picture/img3.png",
+    "picture/img1.png",
+    "picture/img2.png",
     "workspace/logic/relation.canvas",
     "workspace/未命名.canvas",
     "read/读后感/未命名.canvas",
