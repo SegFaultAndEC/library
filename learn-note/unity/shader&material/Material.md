@@ -1,0 +1,3 @@
+Shaders and materials work together as a team — the shader defines what a surface can look like, while the material defines what it does look like.
+## One material, many GameObject
+It's convenient to use one material on many GameObjects. You can save time and give GameObjects a consistent appearance. However, it's important to remember that materials are assets stored in your project. When you change a material on one GameObject, it will change on every GameObject where it's used!
